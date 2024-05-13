@@ -4,8 +4,8 @@ Statistical Learning and Data Science Final project to predict song popularity u
 
 "Final Project" contains project description and outline.
 
-"technical_report_bauer_max_mbb64" contains detailed analysis explaining code, EDA, feature engineering, modeling, and results.
+"technical_report_Bauer_Max_mbb64" contains detailed analysis explaining code, EDA, feature engineering, modeling, and results.
 
-"final_report_bauer_max_mbb64" contains non-technical report with results that are applicable to a companies decision making process and can be understood easily by a non-technical CEO.
+"final_report_Bauer_Max_mbb64" contains non-technical report with results that are applicable to a companies decision making process and can be understood easily by a non-technical CEO.
 
-"code_bauer_max_mbb64" is the code including numerous comments and headers explaining what each chunk is doing.
+"code_Bauer_Max_mbb64" is the code including numerous comments and headers explaining what each chunk is doing.
